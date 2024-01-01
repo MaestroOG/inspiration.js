@@ -64,6 +64,10 @@ h1 {
     .quote {
         padding-bottom: 10px;
     }
+
+    .quote h1 {
+        font-size: 16px;
+    }
 }
 
 
