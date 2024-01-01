@@ -60,6 +60,10 @@ h1 {
         width: 23rem;
         margin: 0px auto 40px;
     }
+
+    .quote {
+        padding-bottom: 10px;
+    }
 }
 
 
@@ -67,11 +71,19 @@ h1 {
     .card {
         width: 20rem;
     }
+
+    .quote {
+        padding-bottom: 10px;
+    }
 }
 
 
 @media only screen and (max-width: 375px) {
     .card {
         width: 18rem;
+    }
+
+    .quote {
+        padding-bottom: 10px;
     }
 }
